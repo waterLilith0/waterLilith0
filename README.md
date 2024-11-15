@@ -1,24 +1,14 @@
-<img src="https://github.com/waterLilith0/waterLilith0/blob/main/header.png">
-<table style="border-style: hidden">
-  <tr>
-    <td>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00DFFF&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Cyberpunk;Steampunk;Made+in+Abyss;Lord+of+the+Rings;Gaming" alt="Typing SVG" /></a>
-    </td>
-    <td></td>
-  </tr>
-</table>
+![header image "I am Lilith/Miri"](https://github.com/waterLilith0/waterLilith0/blob/main/header.png)
+
+| h1 | h2 |
+| :---: | :---: |
+| ![typing out Cyberpunk, Steampunk, Made in Abyss, Lord of the Rings, Gaming](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00DFFF&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Cyberpunk;Steampunk;Made+in+Abyss;Lord+of+the+Rings;Gaming) | I'm just an apprentice tech mage at LandauMedia, learning C# <br> interested in getting to know Unity and Gamedev as well as AIs |
+
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
 
 <h2>My social media</h2>
-<table style="border-style: hidden">
-	<tr>
-		<td>
-			<img style="width: 2vw; margin: 10vw" type="image/png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/600px-Bluesky_Logo.svg.png"><a href="https://bsky.app/profile/waterlilith.bsky.social"/>
-		</td>
-		<td>
-			<img style="width: 2vw; margin: 10vw" type="image/png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/1024px-X_logo_2023.svg.png"><a href="https://bsky.app/profile/waterlilith.bsky.social"/>
-		</td>
-	</tr>
-</table>
+![bluesky icon]("https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/600px-Bluesky_Logo.svg.png")<!-- [link to waterLilith's bluesky profile](https://bsky.app/profile/waterlilith.bsky.social)-->
+![twitter/x icon](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/1024px-X_logo_2023.svg.png)<!-- [link to waterLilith's twitter/x profile](https://x.com/mililith0)-->
 
 <h2>Some stats</h2>
 <p align="center" >
@@ -28,11 +18,3 @@
 	  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/waterLilith0/waterLilith0/output-3d-contrib/day.svg" />
 	</picture>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waterLilith0)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=waterLilith0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<!---
-waterLilith0/waterLilith0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
