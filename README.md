@@ -1,14 +1,20 @@
 <div style="text-align: center">
-  <h1>Hi, I’m @waterLilith0/Miri</h1>
+  <h1>Hi, I’m Lilith/Miri!</h1>
   <ul>
-    <li>I like cyberpunk, steampunk, made in abyss, drums and a little bit of gaming here and there</li>
-    <li>Apprentice tech mage learning C#</li>
-    <li>She/Her</li>
+    <li><h3>Likes:</h3>cyberpunk, steampunk, made in abyss, drums, gaming</li>
+    <li><h3>What I do:</h3>I'm an Apprentice tech mage learning C#</li>
   </ul>
 </div>
-<div>
-  <img href="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/600px-Bluesky_Logo.svg.png"/>
+
+<div style="margin: 1vw">
+  <h2>My social media</h2>
+  <ul style="float: left; position: relative">
+    <li><img style="width: 2vw; margin: 10vw" type="image/png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/600px-Bluesky_Logo.svg.png"><a href="https://bsky.app/profile/waterlilith.bsky.social"/></li>
+    <li><img style="width: 2vw; margin: 10vw" type="image/png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/1024px-X_logo_2023.svg.png"><a href="https://bsky.app/profile/waterlilith.bsky.social"/></li>
+  </ul>
 </div>
+
+<h2>Some stats</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waterLilith0)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=waterLilith0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
