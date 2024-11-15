@@ -1,5 +1,5 @@
 <img src="https://github.com/waterLilith0/waterLilith0/blob/main/header.png">
-<table style="border: 0px">
+<table style="border-style: hidden">
   <tr>
     <td>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00DFFF&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Cyberpunk;Steampunk;Made+in+Abyss;Lord+of+the+Rings;Gaming" alt="Typing SVG" /></a>
@@ -9,7 +9,7 @@
 </table>
 
 <h2>My social media</h2>
-<table style="border: 0px">
+<table style="border-style: hidden">
 	<tr>
 		<td>
 			<img style="width: 2vw; margin: 10vw" type="image/png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/600px-Bluesky_Logo.svg.png"><a href="https://bsky.app/profile/waterlilith.bsky.social"/>
