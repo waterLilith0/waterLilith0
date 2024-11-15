@@ -1,9 +1,6 @@
 <img src="https://github.com/waterLilith0/waterLilith0/blob/main/header.png">
 <div style="text-align: center">
-  <ul>
-    <li><h3>Likes:</h3>cyberpunk, steampunk, made in abyss, drums, gaming</li>
-    <li><h3>What I do:</h3>I'm an Apprentice tech mage learning C#</li>
-  </ul>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00DFFF&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Cyberpunk;Steampunk;Made+in+Abyss;Lord+of+the+Rings;Gaming" alt="Typing SVG" /></a>
 </div>
 
 <div style="margin: 1vw">
