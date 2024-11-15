@@ -1,5 +1,5 @@
+<img src="https://github.com/waterLilith0/waterLilith0/blob/main/header.png">
 <div style="text-align: center">
-  <h1>Hi, I’m Lilith/Miri!</h1>
   <ul>
     <li><h3>Likes:</h3>cyberpunk, steampunk, made in abyss, drums, gaming</li>
     <li><h3>What I do:</h3>I'm an Apprentice tech mage learning C#</li>
