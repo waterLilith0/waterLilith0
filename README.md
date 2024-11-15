@@ -6,6 +6,9 @@
     <li>She/Her</li>
   </ul>
 </div>
+<div>
+  <img href="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/600px-Bluesky_Logo.svg.png"/>
+</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waterLilith0)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=waterLilith0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
