@@ -8,13 +8,17 @@
   </tr>
 </table>
 
-<div style="margin: 1vw">
-  <h2>My social media</h2>
-  <ul style="float: left; position: relative">
-    <li><img style="width: 2vw; margin: 10vw" type="image/png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/600px-Bluesky_Logo.svg.png"><a href="https://bsky.app/profile/waterlilith.bsky.social"/></li>
-    <li><img style="width: 2vw; margin: 10vw" type="image/png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/1024px-X_logo_2023.svg.png"><a href="https://bsky.app/profile/waterlilith.bsky.social"/></li>
-  </ul>
-</div>
+<h2>My social media</h2>
+<table>
+	<tr>
+		<td>
+			<img style="width: 2vw; margin: 10vw" type="image/png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/600px-Bluesky_Logo.svg.png"><a href="https://bsky.app/profile/waterlilith.bsky.social"/>
+		</td>
+		<td>
+			<img style="width: 2vw; margin: 10vw" type="image/png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/1024px-X_logo_2023.svg.png"><a href="https://bsky.app/profile/waterlilith.bsky.social"/>
+		</td>
+	</tr>
+</table>
 
 <h2>Some stats</h2>
 <p align="center" >
