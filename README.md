@@ -9,7 +9,7 @@
 </table>
 
 <h2>My social media</h2>
-<table>
+<table style="border: 0px">
 	<tr>
 		<td>
 			<img style="width: 2vw; margin: 10vw" type="image/png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/600px-Bluesky_Logo.svg.png"><a href="https://bsky.app/profile/waterlilith.bsky.social"/>
