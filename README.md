@@ -17,7 +17,7 @@
 </div>
 
 <h2>Some stats</h2>
-
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waterLilith0)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=waterLilith0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
