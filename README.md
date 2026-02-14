@@ -2,7 +2,7 @@
 
 | **Interests** | **Current Moon Phase and about me** |
 | :---: | :---: |
-| ![typing out Cyberpunk, Steampunk, Made in Abyss, Lord of the Rings, Gaming](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00DFFF&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Cyberpunk;Steampunk;Made+in+Abyss;Lord+of+the+Rings;Gaming) | [![current live moon phase](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)<br> I'm just an apprentice tech mage nerd <br>at LandauMedia, learning C# - interested in getting to know <br>Unity and Gamedev as well as developing AIs |
+| ![typing out Cyberpunk, Steampunk, Made in Abyss, Lord of the Rings, Gaming](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00DFFF&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Cyberpunk;Steampunk;Made+in+Abyss;Lord+of+the+Rings;Gaming) | [![current live moon phase](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)<br> I'm just an apprentice tech mage nerd <br>at LandauMedia, learning C# and React - learning some Unity on the side too and planning to learn AI dev |
 
 <h2>Some stats</h2>
 <p align="center" >
